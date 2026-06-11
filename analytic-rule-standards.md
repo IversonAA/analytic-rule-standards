@@ -185,6 +185,7 @@ git checkout -b feature/new-detection
 | 7 days | P7D|
 | 1 Month | P1M |
 | 1 Year | P1Y|  
+
 <span style="color:green; font-family:Consolas">suppressionEnabled:</span>
 - Indicates if suppression is enabled. Must be Boolean value (true or false).
 
