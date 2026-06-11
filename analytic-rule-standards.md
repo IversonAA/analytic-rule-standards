@@ -84,7 +84,7 @@ Rules must:
 ### Regular Updates
 - Rules are reviewed and updated with evolving threat intelligence
 ### MITRE Coverage Tracking
-- Live mapping: https://crispy-adventure-zg7q214.pages.github.io/
+- Live mapping: <a href="https://crispy-adventure-zg7q214.pages.github.io/"><strong>MITRE ATT&CK Alignment</strong></a>
 ### Automated Deployment
 - GitHub Actions enable consistent rule rollout
 
